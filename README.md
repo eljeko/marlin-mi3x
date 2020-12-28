@@ -1,3 +1,16 @@
+# Mi3x Firmaware config
+
+This is a Marlin-1.1.9.1 config for my custom 3D Printer.
+
+This version is based on this hardware:
+
+* Hot end: [e3d V6 hotend](https://e3d-online.com/products/v6-all-metal-hotend)
+* Extruder (direct): [e3d Titan](https://e3d-online.com/products/titan-extruder)
+* Mainboard: [Geetech GT2560 rev A+](http://www.geeetech.com/wiki/index.php/GT2560A/GT2560A%2B)
+* Motor Drivers: DRV8825
+* Hot Bed: Aibecy Aluminum Heated Bed 12V Hotbed (220 x 220 x 3mm)
+* Motors: Nema 17 for X/Y/E, (dual) Nema 17 threaded rod for Z
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
