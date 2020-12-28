@@ -1,4 +1,4 @@
-# Mi3x Firmaware config
+# Mi3x Firmware config
 
 This is a Marlin-1.1.9.1 config for my custom 3D Printer.
 
